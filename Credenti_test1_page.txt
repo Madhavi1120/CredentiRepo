@@ -1,1 +1,2 @@
 Testing commands and implementing push and pull using git.
+I am making changes in clone code, and checking for whether the reflections takes place as I understood
